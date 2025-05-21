@@ -179,7 +179,7 @@ body {
 }
 
 
-@media(max-width: 800px){
+@media(max-width: 900px){
    .apresentacao {
         display: flex;
         flex-direction: column;
@@ -197,8 +197,13 @@ body {
 }
 
 
-@media(max-width:500px){
+@media(max-width:600px){
     .apresentacao {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
+    .secundario {
         display: flex;
         flex-direction: column;
         width: auto;
