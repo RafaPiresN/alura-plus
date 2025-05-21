@@ -200,11 +200,17 @@ body {
 }
 
 
-@media(max-width:600px){
+@media(max-width: 600px){
     .apresentacao {
         display: flex;
         flex-direction: column;
         width: auto;
+    }
+    .container {
+        display: flex;
+        width: auto;
+        height: auto;
+        text-align: center;
     }
     .secundario {
         display: flex;
