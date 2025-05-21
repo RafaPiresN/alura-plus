@@ -204,6 +204,7 @@ body {
         margin: 0;
     }
     .rodape {
+        align-items: center;
         width: auto;
     }
     .rodape__lista{
@@ -239,9 +240,11 @@ body {
         margin: 0;
     }
     .rodape {
+        align-items: center;
         width: auto;
     }
     .rodape__lista {
+        display: flex;
         justify-content: space-evenly;
         flex-wrap: wrap;
     }
