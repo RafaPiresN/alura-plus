@@ -212,7 +212,7 @@ body {
         flex-wrap: wrap;
     }
 }
-}
+
 
 
 @media(max-width: 600px){
@@ -238,6 +238,9 @@ body {
         flex-direction: column;
         width: auto;
         margin: 0;
+    }
+    .dispositivos__lista {
+        flex-direction: column;
     }
     .rodape {
         align-items: center;
