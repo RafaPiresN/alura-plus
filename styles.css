@@ -197,6 +197,20 @@ body {
         width: auto;
         margin: 0;
     }
+    .dispositivos {
+         display: flex;
+        width: auto;
+        margin: 0;
+    }
+    .rodape {
+        display: flex;
+        justify-content: center;
+    }
+    .rodape__lista{
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+}
 }
 
 
@@ -218,5 +232,17 @@ body {
         width: auto;
         margin: 0;
     }
-    
+    .dispositivos {
+         display: flex;
+        width: auto;
+        margin: 0;
+    }
+    .rodape {
+        display: flex;
+        justify-content: center;
+    }
+    .rodape__lista{
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
 }
