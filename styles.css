@@ -180,14 +180,18 @@ body {
 
 
 @media(max-width: 800px){
-  .body{
-  width: auto;
-  }
+   .apresentacao {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
 }
 
 
 @media(max-width:500px){
-    .body{
+    .apresentacao {
+        display: flex;
+        flex-direction: column;
         width: auto;
     }
 }
