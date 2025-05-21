@@ -217,7 +217,7 @@ body {
 
 @media(max-width: 600px){
     body {
-        width: auto;
+        width: 100%;
     }
     .apresentacao {
         display: flex;
