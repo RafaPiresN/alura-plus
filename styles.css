@@ -198,7 +198,8 @@ body {
         margin: 0;
     }
     .dispositivos {
-         display: flex;
+        display: flex;
+        flex-direction: column;
         width: auto;
         margin: 0;
     }
