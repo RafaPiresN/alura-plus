@@ -185,6 +185,10 @@ body {
         flex-direction: column;
         width: auto;
     }
+    .container {
+        width: auto;
+        height: auto;
+    }
 }
 
 
@@ -194,4 +198,5 @@ body {
         flex-direction: column;
         width: auto;
     }
+    
 }
