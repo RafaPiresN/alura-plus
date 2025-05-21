@@ -179,7 +179,7 @@ body {
 }
 
 
-@media(max-width: 900px){
+@media(max-width: 1000px){
    .apresentacao {
         display: flex;
         flex-direction: column;
@@ -217,7 +217,6 @@ body {
 
 @media(max-width: 600px){
     body {
-        text-align: center;
         width: auto;
     }
     .apresentacao {
