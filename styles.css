@@ -189,6 +189,11 @@ body {
         width: auto;
         height: auto;
     }
+    .secundario {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
 }
 
 
