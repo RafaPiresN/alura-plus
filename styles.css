@@ -180,5 +180,7 @@ body {
 
 
 @media(max-width: 800px){
+  .body{
   width: auto;
+  }
 }
