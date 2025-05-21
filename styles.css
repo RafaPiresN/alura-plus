@@ -186,6 +186,7 @@ body {
         width: auto;
     }
     .container {
+        display: flex;
         width: auto;
         height: auto;
     }
