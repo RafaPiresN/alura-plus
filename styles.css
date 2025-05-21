@@ -177,3 +177,8 @@ body {
     padding: 1em;
     border: 2px dashed var(--botao-azul-efeito);
 }
+
+
+@media(max-width: 800px){
+  width: auto;
+}
