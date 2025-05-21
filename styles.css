@@ -202,11 +202,11 @@ body {
         flex-direction: column;
         width: auto;
         margin: 0;
-
+    }
     .dispositivos__lista {
         justify-content: center;
     }
-    }
+    
     .rodape {
         align-items: center;
         width: auto;
