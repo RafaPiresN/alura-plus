@@ -216,6 +216,9 @@ body {
 
 
 @media(max-width: 600px){
+    body {
+        text-align: center;
+    }
     .apresentacao {
         display: flex;
         flex-direction: column;
@@ -240,6 +243,7 @@ body {
         margin: 0;
     }
     .dispositivos__lista {
+        justify-content: center;
         flex-direction: column;
     }
     .rodape {
